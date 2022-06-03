@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielSchnietz
-- 👀 I’m interested in writing some awesome code to help people out there with apps and software they need. Especially EAS.
-- 🌱 I’m currently learning C#, Java, and if there is some time left,I'm tring to get into Ada, because it's really fun to work with and got some really interesting usecases
+- 👀 I’m interested in writing code to help people out there with apps and software they need. 
+- 🌱 Currently, I'm diving deeper into Cloud Computing and Data Science related fields. Besides that, I'm working as an Java/Scala Developer.
 - 📫 You can reach me via Xing or Linkedin. 
 Xing: https://www.xing.com/profile/Daniel_Schnietz
 Linkedin: https://www.linkedin.com/in/daniel-schnietz-6a60b919a
